@@ -1,0 +1,23 @@
+.content {
+    text-align: center;
+    margin-right: 30%;
+    margin-left: 35%;
+    margin-top: 25%;
+    /* to change the color-color: white;*/
+    color: rgb(4, 4, 80);
+}
+
+.green{
+    color:green;
+}
+
+body{
+    background-image: url("bg.jpg");
+    background-size: cover;
+    opacity: 60%;
+}
+
+html {
+    height: 100%;
+
+}
